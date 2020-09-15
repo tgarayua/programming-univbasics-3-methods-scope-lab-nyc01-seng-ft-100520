@@ -13,6 +13,8 @@ def link
   puts danger 
 end
 
-puts mario 
-puts toadstool 
-puts link
+def all_phrases
+  puts mario 
+  puts toadstool 
+  puts link 
+end
